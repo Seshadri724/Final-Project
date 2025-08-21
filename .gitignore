@@ -20,3 +20,5 @@ dist/
 
 # Ignore IDE specific files (e.g., VS Code)
 .vscode/
+
+#models/
